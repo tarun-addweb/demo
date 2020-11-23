@@ -38,7 +38,7 @@
         
         
         captcha:<span class="captcha_span">{!! captcha_img() !!}</span>
-        <button type="button" class="btn-refresh"><i class="fa fa-refresh" name="captcha" >refresh</button><br>
+        <button type="button" class="btn-refresh"><i class="glyphicon glyphicon-refresh"></i></button><br>
         <input type="text" id="captcha" name="captcha" placeholder="enter captcha" /><br>
         
         
